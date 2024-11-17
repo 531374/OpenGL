@@ -1,0 +1,13 @@
+﻿  glad.c
+  imageLoader.cpp
+  Main.cpp
+C:\Users\jaspe\Documents\OpenGL\Solutions\First Learning Outcome\OpenGL\Main.cpp(200,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jaspe\Documents\OpenGL\Solutions\First Learning Outcome\OpenGL\Main.cpp(219,25): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\jaspe\Documents\OpenGL\Solutions\First Learning Outcome\OpenGL\Main.cpp(265,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jaspe\Documents\OpenGL\Solutions\First Learning Outcome\OpenGL\Main.cpp(266,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jaspe\Documents\OpenGL\Solutions\First Learning Outcome\OpenGL\Main.cpp(270,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jaspe\Documents\OpenGL\Solutions\First Learning Outcome\OpenGL\Main.cpp(271,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jaspe\Documents\OpenGL\Solutions\First Learning Outcome\OpenGL\Main.cpp(272,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jaspe\Documents\OpenGL\Solutions\First Learning Outcome\OpenGL\Main.cpp(273,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  OpenGL.vcxproj -> C:\Users\jaspe\Documents\OpenGL\Solutions\First Learning Outcome\x64\Debug\OpenGL.exe

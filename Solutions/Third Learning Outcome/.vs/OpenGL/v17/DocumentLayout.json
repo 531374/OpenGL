@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\OpenGL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C6D324-2EA5-4F17-A99D-20FCA01657A3}|OpenGL\\OpenGL.vcxproj|C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\OpenGL\\OpenGL\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32C6D324-2EA5-4F17-A99D-20FCA01657A3}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C6D324-2EA5-4F17-A99D-20FCA01657A3}|OpenGL\\OpenGL.vcxproj|C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\OpenGL\\OpenGL\\vertex.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{32C6D324-2EA5-4F17-A99D-20FCA01657A3}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\vertex.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C6D324-2EA5-4F17-A99D-20FCA01657A3}|OpenGL\\OpenGL.vcxproj|C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\OpenGL\\OpenGL\\PerlinNoiseGenerator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32C6D324-2EA5-4F17-A99D-20FCA01657A3}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\PerlinNoiseGenerator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C6D324-2EA5-4F17-A99D-20FCA01657A3}|OpenGL\\OpenGL.vcxproj|C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\OpenGL\\OpenGL\\PerlinNoiseGenerator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32C6D324-2EA5-4F17-A99D-20FCA01657A3}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\PerlinNoiseGenerator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C6D324-2EA5-4F17-A99D-20FCA01657A3}|OpenGL\\OpenGL.vcxproj|C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\OpenGL\\OpenGL\\colorFragment.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{32C6D324-2EA5-4F17-A99D-20FCA01657A3}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\colorFragment.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C6D324-2EA5-4F17-A99D-20FCA01657A3}|OpenGL\\OpenGL.vcxproj|C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\OpenGL\\OpenGL\\fragment.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{32C6D324-2EA5-4F17-A99D-20FCA01657A3}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\fragment.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C6D324-2EA5-4F17-A99D-20FCA01657A3}|OpenGL\\OpenGL.vcxproj|C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\OpenGL\\OpenGL\\lightSourceFragment.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{32C6D324-2EA5-4F17-A99D-20FCA01657A3}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\lightSourceFragment.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C6D324-2EA5-4F17-A99D-20FCA01657A3}|OpenGL\\OpenGL.vcxproj|C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\OpenGL\\OpenGL\\Model.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32C6D324-2EA5-4F17-A99D-20FCA01657A3}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\Model.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C6D324-2EA5-4F17-A99D-20FCA01657A3}|OpenGL\\OpenGL.vcxproj|C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\OpenGL\\OpenGL\\Model.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32C6D324-2EA5-4F17-A99D-20FCA01657A3}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\Model.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\OpenGL\\OpenGL\\Main.cpp",
+              "RelativeDocumentMoniker": "OpenGL\\Main.cpp",
+              "ToolTip": "C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\OpenGL\\OpenGL\\Main.cpp",
+              "RelativeToolTip": "OpenGL\\Main.cpp",
+              "ViewState": "AgIAAIUAAAAAAAAAAAArwI4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-06T13:40:30.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PerlinNoiseGenerator.h",
+              "DocumentMoniker": "C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\OpenGL\\OpenGL\\PerlinNoiseGenerator.h",
+              "RelativeDocumentMoniker": "OpenGL\\PerlinNoiseGenerator.h",
+              "ToolTip": "C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\OpenGL\\OpenGL\\PerlinNoiseGenerator.h",
+              "RelativeToolTip": "OpenGL\\PerlinNoiseGenerator.h",
+              "ViewState": "AgIAABoAAAAAAAAAAAArwCkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-07T19:24:04.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PerlinNoiseGenerator.cpp",
+              "DocumentMoniker": "C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\OpenGL\\OpenGL\\PerlinNoiseGenerator.cpp",
+              "RelativeDocumentMoniker": "OpenGL\\PerlinNoiseGenerator.cpp",
+              "ToolTip": "C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\OpenGL\\OpenGL\\PerlinNoiseGenerator.cpp",
+              "RelativeToolTip": "OpenGL\\PerlinNoiseGenerator.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-07T19:26:57.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Model.h",
+              "DocumentMoniker": "C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\OpenGL\\OpenGL\\Model.h",
+              "RelativeDocumentMoniker": "OpenGL\\Model.h",
+              "ToolTip": "C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\OpenGL\\OpenGL\\Model.h",
+              "RelativeToolTip": "OpenGL\\Model.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-05T15:31:04.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Model.cpp",
+              "DocumentMoniker": "C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\OpenGL\\OpenGL\\Model.cpp",
+              "RelativeDocumentMoniker": "OpenGL\\Model.cpp",
+              "ToolTip": "C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\OpenGL\\OpenGL\\Model.cpp",
+              "RelativeToolTip": "OpenGL\\Model.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T15:38:05.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "lightSourceFragment.frag",
+              "DocumentMoniker": "C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\OpenGL\\OpenGL\\lightSourceFragment.frag",
+              "RelativeDocumentMoniker": "OpenGL\\lightSourceFragment.frag",
+              "ToolTip": "C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\OpenGL\\OpenGL\\lightSourceFragment.frag",
+              "RelativeToolTip": "OpenGL\\lightSourceFragment.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-14T15:24:51.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "fragment.frag",
+              "DocumentMoniker": "C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\OpenGL\\OpenGL\\fragment.frag",
+              "RelativeDocumentMoniker": "OpenGL\\fragment.frag",
+              "ToolTip": "C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\OpenGL\\OpenGL\\fragment.frag",
+              "RelativeToolTip": "OpenGL\\fragment.frag",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAcwJUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-14T15:09:45.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vertex.vert",
+              "DocumentMoniker": "C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\OpenGL\\OpenGL\\vertex.vert",
+              "RelativeDocumentMoniker": "OpenGL\\vertex.vert",
+              "ToolTip": "C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\OpenGL\\OpenGL\\vertex.vert",
+              "RelativeToolTip": "OpenGL\\vertex.vert",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-14T15:09:46.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "colorFragment.frag",
+              "DocumentMoniker": "C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\OpenGL\\OpenGL\\colorFragment.frag",
+              "RelativeDocumentMoniker": "OpenGL\\colorFragment.frag",
+              "ToolTip": "C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\OpenGL\\OpenGL\\colorFragment.frag",
+              "RelativeToolTip": "OpenGL\\colorFragment.frag",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-08T16:48:15.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

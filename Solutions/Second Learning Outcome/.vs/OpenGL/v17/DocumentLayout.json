@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\Second Learning Outcome\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C6D324-2EA5-4F17-A99D-20FCA01657A3}|OpenGL\\OpenGL.vcxproj|C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\Second Learning Outcome\\OpenGL\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32C6D324-2EA5-4F17-A99D-20FCA01657A3}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C6D324-2EA5-4F17-A99D-20FCA01657A3}|OpenGL\\OpenGL.vcxproj|C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\Second Learning Outcome\\OpenGL\\fragment.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{32C6D324-2EA5-4F17-A99D-20FCA01657A3}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\fragment.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C6D324-2EA5-4F17-A99D-20FCA01657A3}|OpenGL\\OpenGL.vcxproj|C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\Second Learning Outcome\\OpenGL\\lightSourceFragment.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{32C6D324-2EA5-4F17-A99D-20FCA01657A3}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\lightSourceFragment.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C6D324-2EA5-4F17-A99D-20FCA01657A3}|OpenGL\\OpenGL.vcxproj|C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\Second Learning Outcome\\OpenGL\\vertex.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{32C6D324-2EA5-4F17-A99D-20FCA01657A3}|OpenGL\\OpenGL.vcxproj|solutionrelative:OpenGL\\vertex.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\Second Learning Outcome\\OpenGL\\Main.cpp",
+              "RelativeDocumentMoniker": "OpenGL\\Main.cpp",
+              "ToolTip": "C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\Second Learning Outcome\\OpenGL\\Main.cpp",
+              "RelativeToolTip": "OpenGL\\Main.cpp",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAAAOkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-06T13:40:30.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "vertex.vert",
+              "DocumentMoniker": "C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\Second Learning Outcome\\OpenGL\\vertex.vert",
+              "RelativeDocumentMoniker": "OpenGL\\vertex.vert",
+              "ToolTip": "C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\Second Learning Outcome\\OpenGL\\vertex.vert",
+              "RelativeToolTip": "OpenGL\\vertex.vert",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-14T15:09:46.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fragment.frag",
+              "DocumentMoniker": "C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\Second Learning Outcome\\OpenGL\\fragment.frag",
+              "RelativeDocumentMoniker": "OpenGL\\fragment.frag",
+              "ToolTip": "C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\Second Learning Outcome\\OpenGL\\fragment.frag",
+              "RelativeToolTip": "OpenGL\\fragment.frag",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAJAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-14T15:09:45.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lightSourceFragment.frag",
+              "DocumentMoniker": "C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\Second Learning Outcome\\OpenGL\\lightSourceFragment.frag",
+              "RelativeDocumentMoniker": "OpenGL\\lightSourceFragment.frag",
+              "ToolTip": "C:\\Users\\jaspe\\Documents\\OpenGL\\Solutions\\Second Learning Outcome\\OpenGL\\lightSourceFragment.frag",
+              "RelativeToolTip": "OpenGL\\lightSourceFragment.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-14T15:24:51.936Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

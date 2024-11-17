@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (triangle-opengles.dir\Debug\) contains files shared from another project (triangle-opengles.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Building Custom Rule C:/Users/jaspe/Documents/OpenGL/glfw-3.4/examples/CMakeLists.txt
+  triangle-opengles.c
+  triangle-opengles.vcxproj -> C:\Users\jaspe\Documents\OpenGL\glfw-3.4\Build\examples\Debug\triangle-opengles.exe
